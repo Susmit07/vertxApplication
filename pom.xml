@@ -16,7 +16,7 @@
 	</properties>
 
 	<dependencies>
-		<!-- Adding Vert.X dependencies -->
+		<!-- Adding Vert.X dependencies. Vert.X-Web is actually like a framework -->
 		<dependency>
 			<groupId>io.vertx</groupId>
 			<artifactId>vertx-web</artifactId>
